@@ -1,6 +1,6 @@
 ## Shebin Shamsuddeen
 
-- **Included Merge action**
+#Included Merge action
 
 ## Tech Stack
 
