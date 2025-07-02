@@ -1,6 +1,9 @@
-## Shebin Shamsuddeen
+## Candidate name : Shebin Shamsuddeen
 
-## Included Merge , push and pull actions
+## Note 
+- **Included Merge , push and pull actions**
+- **webhook uses an ngrok URL**
+
 
 ## Tech Stack
 
