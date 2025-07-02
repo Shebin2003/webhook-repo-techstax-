@@ -1,6 +1,6 @@
 ## Shebin Shamsuddeen
 
-# Included Merge action
+## Included Merge , push and pull actions
 
 ## Tech Stack
 
