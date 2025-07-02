@@ -1,5 +1,7 @@
 ## Shebin Shamsuddeen
 
+- **Included Merge action**
+
 ## Tech Stack
 
 - **Backend:** Flask (Python)
